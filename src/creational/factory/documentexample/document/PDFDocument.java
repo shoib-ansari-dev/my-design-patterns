@@ -1,4 +1,4 @@
-package creational.factory.documentexample;
+package creational.factory.documentexample.document;
 
 public class PDFDocument implements Document{
     private String content;

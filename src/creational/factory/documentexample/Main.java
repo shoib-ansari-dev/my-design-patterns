@@ -1,5 +1,11 @@
 package creational.factory.documentexample;
 
+import creational.factory.documentexample.document.Document;
+import creational.factory.documentexample.factory.DocumentFactory;
+import creational.factory.documentexample.factory.ExcelDocumentFactory;
+import creational.factory.documentexample.factory.PDFDocumentFactory;
+import creational.factory.documentexample.factory.WordDocumentFactory;
+
 public class Main {
     public static void main(String[] args) {
         DocumentFactory pdfFactory = new PDFDocumentFactory();

@@ -1,4 +1,4 @@
-package creational.factory.documentexample;
+package creational.factory.documentexample.document;
 
 public class WordDocument implements Document{
     private String content;

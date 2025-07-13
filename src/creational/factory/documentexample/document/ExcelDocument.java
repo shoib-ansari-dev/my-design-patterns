@@ -1,6 +1,6 @@
-package creational.factory.documentexample;
+package creational.factory.documentexample.document;
 
-public class ExcelDocument implements Document{
+public class ExcelDocument implements Document {
     private String content;
     @Override
     public void setContent(String content) {
