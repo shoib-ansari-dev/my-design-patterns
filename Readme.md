@@ -15,6 +15,9 @@ Implements the Abstract Factory pattern for a cross-platform GUI toolkit, allowi
 ### 3. [Composite](src/structural/composite/Readme.md)
 Implements the Composite pattern to model an organization structure, treating departments and employees uniformly in a tree hierarchy.
 
+### 4. [Adapter](src/structural/adapter/Readme.md)
+Implements the Adapter pattern to unify different logging systems under a single interface, allowing incompatible loggers to work together.
+
 ## 🏁 Conclusion
 
 Each module is a simple and extensible demonstration of its respective pattern, intended for learning purposes.  
