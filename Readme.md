@@ -18,6 +18,9 @@ Implements the Composite pattern to model an organization structure, treating de
 ### 4. [Adapter](src/structural/adapter/Readme.md)
 Implements the Adapter pattern to unify different logging systems under a single interface, allowing incompatible loggers to work together.
 
+### 5. [Builder](src/creational/builder/Readme.md)
+Implements the Builder pattern to construct complex `Computer` objects step by step, allowing flexible and readable configuration.
+
 ## 🏁 Conclusion
 
 Each module is a simple and extensible demonstration of its respective pattern, intended for learning purposes.  
