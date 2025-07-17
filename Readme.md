@@ -21,6 +21,9 @@ Implements the Adapter pattern to unify different logging systems under a single
 ### 5. [Builder](src/creational/builder/Readme.md)
 Implements the Builder pattern to construct complex `Computer` objects step by step, allowing flexible and readable configuration.
 
+### 6. [Prototype](src/creational/prototype/Readme.md)
+Implements the Prototype pattern to clone `Document` objects, enabling efficient duplication of complex instances.
+
 ## 🏁 Conclusion
 
 Each module is a simple and extensible demonstration of its respective pattern, intended for learning purposes.  
