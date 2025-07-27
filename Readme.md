@@ -24,6 +24,8 @@ Implements the Builder pattern to construct complex `Computer` objects step by s
 ### 6. [Prototype](src/creational/prototype/Readme.md)
 Implements the Prototype pattern to clone `Document` objects, enabling efficient duplication of complex instances.
 
+### 7. [Bridge](src/structural/bridge/Readme.md)
+Implements the Bridge pattern to decouple `Shape` abstractions from `Color` implementations, allowing both to vary independently.
 ## 🏁 Conclusion
 
 Each module is a simple and extensible demonstration of its respective pattern, intended for learning purposes.  
